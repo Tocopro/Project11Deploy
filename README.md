@@ -1,32 +1,14 @@
+# Install
+
+Clone project and run the following line of code in your terminal to install 
+all packages
+
 # Note Taker
-An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
+An application to write and save note with Express.js back end and will save and retrieve note data from JSON file. The Application will be deployed in Heroku
 
+## Git Hub URL
 
-
-
-
-
-## Description
-An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
-
-## User Story
-```
-- AS A small business owner
-- I WANT to be able to write and save notes
-- SO THAT I can organize my thoughts and keep track of tasks I need to complete
-```
-
-
-## Usage
-- Application will allow user to be able to add note's title and description
-- Application will allow user to be able to save the notes and won't lose them even they refresh the page
-- Application will allow user to be delete notes
-
-
-## Screenshots
-![](public/assets/img/noteTakerpage1.png)
-![](public/assets/img/noteTakerPage2.png)
-
+https://github.com/Tocopro/Project11Deploy
 
 
 ## Technologies Use
@@ -39,6 +21,34 @@ An application to write and save note with Express.js back end and will save and
 <p><a href="https://fonts.google.com/">Google Fonts</a></p>
 
 
+
+
+## Description
+An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.
+
+
+## Usage
+- Application will allow user to be able to add note's title and description
+- Application will allow user to be able to save the notes and won't lose them even they refresh the page
+- Application will allow user to be delete notes
+
+
+## Screenshots
+![](public/assets/img/noteTakerpage1.png)
+![](public/assets/img/noteTakerPage2.png)
+
+## Usage Demonstration Video
+
+![](public\assets\img\Note Taker.gif)
+
+
+## Credits
+W3schools Express, Node JS 
+GeeksforGeeks Express, Node JS, Git
+
+
+
+
 ## Contributor:
 Nicholas Wachira nicwac200g@gmail.com
-- - -
+
