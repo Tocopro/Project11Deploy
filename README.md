@@ -39,7 +39,7 @@ An application to write and save note with Express.js back end and will save and
 
 ## Usage Demonstration Video
 
-![](public\assets\img\Note Taker.gif)
+![Alt text](<Note Taker.gif>)
 
 
 ## Credits
