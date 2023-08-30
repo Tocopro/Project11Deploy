@@ -46,6 +46,10 @@ An application to write and save note with Express.js back end and will save and
 W3schools Express, Node JS 
 GeeksforGeeks Express, Node JS, Git
 
+## License 
+
+MIT 
+
 
 
 
