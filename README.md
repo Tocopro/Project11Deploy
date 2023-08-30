@@ -28,8 +28,8 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Usage
-- Application will allow user to be able to add note's title and description
-- Application will allow user to be able to save the notes and won't lose them even they refresh the page
+- The application will allow user to be able to add note's title and description
+- The application will allow user to be able to save the notes and won't lose them even they refresh the page
 - Application will allow user to be delete notes
 
 
